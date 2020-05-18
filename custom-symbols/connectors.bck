@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SWD-10
+D Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Sensor-Board
+D Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP TableHeightGiver_SensorBoard
+D Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
+$CMP Visionox_M00998
+D FPC, single row, 01x20, 0.5 Pitch
+K connector
+F https://www.mouser.ch/datasheet/2/835/Visionox_01062017_M00998-1217804.pdf
+$ENDCMP
+#
+#End Doc Library

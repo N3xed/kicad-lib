@@ -1,0 +1,19 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP PEL12T-4225S-S1024
+D Encoders Red Blue/Green LED Push Switch Knurled
+F https://componentsearchengine.com/Datasheets/1/PEL12T-4225S-S1024.pdf
+$ENDCMP
+#
+$CMP FTSH-105-01-F-DV-K
+D .050 x .050 CL DOUBLE VERTICAL SMT TERMINAL STRIP
+K
+F https://componentsearchengine.com/Datasheets/1/FTSH-105-01-F-DV-K.pdf
+$ENDCMP
+#
+#End Doc Library
