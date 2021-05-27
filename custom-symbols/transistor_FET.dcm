@@ -1410,6 +1410,12 @@ K N-Channel MOSFET
 F http://www.diodes.com/assets/Datasheets/ds31787.pdf
 $ENDCMP
 #
+$CMP DMN53D0L
+D 50V Vds, 0.5A Id, N-Channel MOSFET, SOT-23
+K N-Channel MOSFET
+F https://www.diodes.com/assets/Datasheets/DMN53D0L.pdf
+$ENDCMP
+#
 $CMP DMN6075S
 D 2.5A Id, 60V Vds, N-Channel MOSFET, SOT-23
 K N-Channel MOSFET

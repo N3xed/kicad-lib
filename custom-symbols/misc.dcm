@@ -1,3 +1,27 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP AP2127N3-1.5
+D 300mA low dropout linear regulator, shutdown pin, 2.5V-6V input voltage, 1.5V fixed positive output, SOT-23-3 package
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/AP2127.pdf
+$ENDCMP
+#
+$CMP COM-12999
+D RGB LED with integrated controller
+K RGB LED NeoPixel addressable
+F https://cdn.sparkfun.com/assets/6/9/0/f/3/DS-12999-LED_-_RGB_Addressable__PTH__5mm_Clear__5_Pack_.pdf
+$ENDCMP
+#
+$CMP ZMR330FTA
+D fixed 3.3V miniature voltage regulator, 4.8-24V input voltage, 3.3V fixed positive output, SOT-23-3 package
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/ZMRSERIES.pdf
+$ENDCMP
+#
+$CMP ZMR500FTA
+D fixed 5V miniature voltage regulator, 7-25V input voltage, 5V fixed positive output, SOT-23-3 package
+K linear regulator ldo fixed positive
+F https://www.diodes.com/assets/Datasheets/ZMRSERIES.pdf
+$ENDCMP
+#
 #End Doc Library
